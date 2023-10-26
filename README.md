@@ -8,7 +8,7 @@
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Vinícius-C" height="30" width="40" src="https://icons8.com.br/icon/40670/programa%C3%A7%C3%A3o-c">
-  <img align="center" alt="Vinícius-Wp" height="30" width="40" src="https://icons8.com.br/icon/40669/c%2B%2B">
+  <img align="center" alt="Vinícius-Wp" height="30" width="40" src="https://www.flaticon.com/br/icone-gratis/c-_6132222?term=c&page=1&position=1&origin=search&related_id=6132222">
   <img align="center" alt="Vinícius-Wp" height="30" width="40" src="https://icons8.com.br/icon/20909/html-5">
   <img align="center" alt="Vinícius-Wp" height="30" width="40" src="https://icons8.com.br/icon/21278/css3">
   <img align="center" alt="Vinícius-Wp" height="30" width="40" src="https://icons8.com.br/icon/108784/javascript">
