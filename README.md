@@ -8,16 +8,15 @@
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Vinícius-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" alt="Vinícius-Wp" height="30" width="40" src="https://www.flaticon.com/br/icone-gratis/c-_6132222?term=c&page=1&position=1&origin=search&related_id=6132222">
-  <img align="center" alt="Vinícius-Wp" height="30" width="40" src="https://icons8.com.br/icon/20909/html-5">
-  <img align="center" alt="Vinícius-Wp" height="30" width="40" src="https://icons8.com.br/icon/21278/css3">
-  <img align="center" alt="Vinícius-Wp" height="30" width="40" src="https://icons8.com.br/icon/108784/javascript">
-  <img align="center" alt="Vinícius-Wp" height="30" width="40" src="https://icons8.com.br/icon/13679/logo-java-coffee-cup">
-  <img align="center" alt="Vinícius-Wp" height="30" width="40" src="https://icons8.com.br/icon/13664/wordpress">
-  <img align="center" alt="Vinícius-Wp" height="30" width="40" src="https://icons8.com.br/icon/lAWjO4LexGga/canva">
-  <img align="center" alt="Vinícius-Wp" height="30" width="40" src="https://icons8.com.br/icon/zfHRZ6i1Wg0U/figma">
-  <img align="center" alt="Vinícius-Wp" height="30" width="40" src="https://icons8.com.br/icon/b4Y5rs3iBGqE/gimp">
-</div>
+  <img align="center" alt="Vinícius-Wp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Vinícius-Wp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Vinícius-Wp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Vinícius-Wp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Vinícius-Wp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
+  <img align="center" alt="Vinícius-Wp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
+  <img align="center" alt="Vinícius-Wp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
+  <img align="center" alt="Vinícius-Wp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+  
  
 ## 
 
